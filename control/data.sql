@@ -1,0 +1,5 @@
+-- NOT READY FOR PRODUCTION
+
+INSERT INTO sex VALUES(1,'male');
+INSERT INTO sex VALUES(2,'female');
+INSERT INTO sex VALUES(3,'unknown');
