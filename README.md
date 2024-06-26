@@ -7,4 +7,5 @@
     - quering the database to store the data
 
 ## The database
-The main database is for typing tests. It's scheme is in the typing/scheme.sql
+The main database is for typing tests. It's scheme is in the typing/scheme.sql.
+Another database, currently in development, is about people. Scheme in control/scheme.sql
